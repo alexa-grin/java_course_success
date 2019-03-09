@@ -5,7 +5,7 @@ public class MyFirstProgram {
   public static void main(String[] args) {
     hello ("world");
     hello ("user");
-    hello ("Alexa");
+    hello ("alexa");
 
     double l = 5;
     System.out.println( "Площаль квадрата со стороной " + l + " = " + area (l) );
